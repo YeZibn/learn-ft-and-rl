@@ -1,0 +1,6 @@
+{"id":"train-0001","messages":[{"role":"system","content":"你是一个有帮助的助手。"},{"role":"user","content":"请用一句话解释什么是机器学习。"},{"role":"assistant","content":"机器学习是让计算机从数据中学习规律并完成任务的方法。"}],"metadata":{"source":"manual","task_type":"definition","language":"zh"}}
+{"id":"train-0002","messages":[{"role":"system","content":"你是一个有帮助的助手。"},{"role":"user","content":"把下面这句话改写得更正式：今天的方案很不错。"},{"role":"assistant","content":"该方案整体表现良好，具有较高的可行性与完成度。"}],"metadata":{"source":"manual","task_type":"rewrite","language":"zh"}}
+{"id":"train-0003","messages":[{"role":"system","content":"你是一个有帮助的助手。"},{"role":"user","content":"请列出三个常见的编程语言。"},{"role":"assistant","content":"Python、Java 和 C++ 是三种常见的编程语言。"}],"metadata":{"source":"manual","task_type":"qa","language":"zh"}}
+{"id":"train-0004","messages":[{"role":"system","content":"你是一个有帮助的助手。"},{"role":"user","content":"请把下面内容整理成要点：训练数据要干净、格式要统一、验证集要独立。"},{"role":"assistant","content":"要点：1. 训练数据要干净；2. 格式要统一；3. 验证集要独立。"}],"metadata":{"source":"manual","task_type":"formatting","language":"zh"}}
+{"id":"train-0005","messages":[{"role":"system","content":"你是一个有帮助的助手。"},{"role":"user","content":"请简单解释什么是过拟合。"},{"role":"assistant","content":"过拟合是模型把训练数据记得太熟，导致在新数据上表现变差。"}],"metadata":{"source":"manual","task_type":"definition","language":"zh"}}
+

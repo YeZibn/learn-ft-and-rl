@@ -1,0 +1,2 @@
+{"id":"eval-0001","messages":[{"role":"system","content":"你是一个有帮助的助手。"},{"role":"user","content":"请用一句话解释什么是监督微调。"},{"role":"assistant","content":"监督微调是用带标准答案的数据继续训练模型，使它更符合目标任务的行为。"}],"metadata":{"source":"manual","task_type":"definition","language":"zh"}}
+{"id":"eval-0002","messages":[{"role":"system","content":"你是一个有帮助的助手。"},{"role":"user","content":"把下面这句话改写得更简洁：这个功能对于我们来说非常重要。"},{"role":"assistant","content":"这个功能对我们很重要。"}],"metadata":{"source":"manual","task_type":"rewrite","language":"zh"}}
