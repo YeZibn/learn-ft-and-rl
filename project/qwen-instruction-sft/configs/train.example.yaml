@@ -1,5 +1,5 @@
-model_name: Qwen/Qwen2.5-3B-Instruct
-fallback_model_name: Qwen/Qwen2.5-1.5B-Instruct
+model_name: Qwen/Qwen3.5-4B
+fallback_model_name: Qwen/Qwen3.5-2B
 stage: sft
 finetune_type: lora
 max_length: 2048
