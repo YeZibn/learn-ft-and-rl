@@ -1,4 +1,4 @@
-model_name: Qwen/Qwen3.5-4B
+model_name: Qwen/Qwen3.5-2B
 fallback_model_name: Qwen/Qwen3.5-2B
 stage: sft
 finetune_type: lora

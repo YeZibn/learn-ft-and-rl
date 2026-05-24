@@ -12,7 +12,7 @@
 
 对照对象：
 
-- 原始 `Qwen/Qwen3.5-4B`
+- 原始 `Qwen/Qwen3.5-2B`
 - 所有 LoRA 微调实验
 
 目标：
@@ -66,7 +66,7 @@
 
 当前建议至少比较：
 
-1. 原始 `Qwen/Qwen3.5-4B`
+1. 原始 `Qwen/Qwen3.5-2B`
 2. `exp-001-baseline-lora`
 3. `exp-002-higher-rank`
 4. `exp-003-lower-lr`

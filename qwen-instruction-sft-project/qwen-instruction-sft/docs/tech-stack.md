@@ -2,7 +2,7 @@
 
 ## Baseline Model
 
-- `Qwen/Qwen3.5-4B`
+- `Qwen/Qwen3.5-2B`
 
 ## Fallback Model
 
@@ -37,5 +37,5 @@
 
 1. Qwen3 官方模型卡提供了标准 `apply_chat_template` 用法
 2. 官方文档也给出了 vLLM 和 SGLang 推理示例
-3. 3B 规模对第一个项目来说足够小，适合先跑通闭环
+3. 2B 规模对第一个项目来说足够小，适合先跑通闭环
 4. 如果资源紧张，可以回退到 `Qwen/Qwen3.5-2B`
